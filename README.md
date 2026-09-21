@@ -1,6 +1,6 @@
 # STM32F070 FreeRTOS Industrial Control Demo
 
-Final project for a university "Informática y Comunicaciones Industriales" course: an STM32F070RB running FreeRTOS controls several actuators/sensors and exchanges data with a Windows desktop GUI over UART, with two boards able to share live status over CAN bus.
+Final project for a university course: an STM32F070RB running FreeRTOS controls several actuators/sensors and exchanges data with a Windows desktop GUI over UART, with two boards able to share live status over CAN bus.
 
 The project has two parts, kept as two folders in this repo:
 
