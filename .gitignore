@@ -1,0 +1,17 @@
+# --- STM32CubeIDE (firmware/) ---
+firmware/Debug/
+firmware/Release/
+firmware/**/Debug/
+firmware/**/Release/
+
+# --- Visual Studio (gui/) ---
+gui/**/bin/
+gui/**/obj/
+gui/**/.vs/
+*.user
+*.suo
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
